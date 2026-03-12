@@ -1,11 +1,12 @@
 streamlit
+pandas
+opencv-python-headless
 torch
 torchvision
+pillow
 numpy
-pandas
 matplotlib
 seaborn
-pillow
-opencv-python
 plotly
 scikit-learn
+timm
