@@ -3,7 +3,7 @@
 An end-to-end deep learning web application that detects pneumonia from chest X-ray images using a **5-model ensemble** with **97.3% accuracy**. The system provides visual explanations via Grad-CAM, showing exactly which lung regions influenced the diagnosis.
 
 ## 🚀 Live Demo  
-[🔗 View Live App](https://chest-xray-pneumonia-ensemble-2rkuap9g8sc5meizrgfluy.streamlit.app/) *(Replace with your actual Streamlit link)*
+[🔗 View Live App](https://chest-xray-pneumonia-ensemble-2rkuap9g8sc5meizrgfluy.streamlit.app/) 
 
 ## 🛠️ Tech Stack  
 - **Engine:** Python 3.10+, PyTorch 2.x  
